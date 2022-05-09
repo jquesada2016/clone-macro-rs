@@ -1,0 +1,13 @@
+[package]
+name = "clone-macro"
+version = "0.1.0"
+edition = "2021"
+authors = ["Jose Quesada <jquesada2016@fau.edu>"]
+description = "Super simple utility macro for cloning before moving into a move closure/block."
+license = "MIT"
+keywords = ["macro", "clone", "utility"]
+categories = ["development-tools", "rust-patterns"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
