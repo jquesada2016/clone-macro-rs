@@ -154,6 +154,7 @@
 
 /// Please see the crate documentation for syntax and examples, but in a jist, the
 /// syntax is as follows:
+///
 /// ```ignore
 /// clone!([$($(mut)? $FORM)*], $expr);
 /// ```
